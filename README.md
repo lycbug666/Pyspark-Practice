@@ -1,2 +1,2 @@
 # Pyspark-Practice
-Pyspark practice jupyter notebook
+Pyspark practice with jupyter notebook.
